@@ -1,10 +1,10 @@
 <?php
 
-	require('lib\Page.php');
-	require('lib\Header.php');
-	require('lib\Menu.php');
-	require('lib\Content.php');
-	require('lib\Footer.php');
+	require('lib/Page.php');
+	require('lib/Header.php');
+	require('lib/Menu.php');
+	require('lib/Content.php');
+	require('lib/Footer.php');
 
 	define('LAYOUT',
 		"<!DOCTYPE html>
